@@ -1,2 +1,2 @@
 # 420Bros.Mobile
-Mobile POS Application
+Mobile POS Application. This POS application will provide multipoint POS system. 
